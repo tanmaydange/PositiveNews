@@ -1,0 +1,8 @@
+.vscode/
+pyvenv/
+config.properties
+GooNewsApp.code-workspace
+session.session
+src/__pycache__
+GoodNewsApp.code-workspace
+app.log
