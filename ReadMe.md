@@ -1,4 +1,4 @@
-# Positive News of the day
+# Positive News
 
 As our Honorable President Dr. APJ Abdul Kalam had once said that news papers
 
@@ -74,6 +74,14 @@ url_list=http://syndication.indianexpress.com/rss/latest-news.xml,https://timeso
 7. Run the application
 `python src/GoodNewsApp.py`
 
+## Deployment
+* You can deploy this on Amazon EC2 instance like I have and schedule a cron job to execute this everyday.
+* Alternatively you can deploy this on Amazon Lambda and configure Amazon CloudWatch to automate the execution.
+
+## Telegram Messages
+You should  start receiving positive news on the telegram like this.
+![NewsOutput2](./images/1652868117349.jpg)
+![NewsOutput](./images/1652868117335.jpg)
 
 ## References
 [DeepAI Sentiment Analysis](https://deepai.org/machine-learning-model/sentiment-analysis)
