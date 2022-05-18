@@ -27,10 +27,10 @@ This App has a sole purpose. Deliver positive news of the day so that the reader
 * Python 3.6.9
 
 ## Python Libraries
-feedparser
-python-telegram-bot
-requests
-telebot
+* feedparser
+* python-telegram-bot
+* requests
+* telebot
 
 ## How to use?
 
